@@ -1,0 +1,6 @@
+[submodule "OrderGenerator"]
+	path = OrderGenerator
+	url = https://github.com/williamguilhermesouza/OrderGenerator
+[submodule "OrderAccumulator"]
+	path = OrderAccumulator
+	url = https://github.com/williamguilhermesouza/OrderAccumulator
